@@ -8,16 +8,15 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de Engenharia de Software na PUC Campinas, atualmente no 2º semestre. Apaixonado por tecnologia e desenvolvimento de software, estou sempre em busca de aprimorar minhas habilidades em programação e arquitetura de sistemas. Acredito que a prática constante e a colaboração são essenciais para o crescimento profissional.
+Sou estudante de Engenharia de Software na PUC Campinas, atualmente no 2º semestre.
+Ingles Fluente
 
 ---
 
 ## 🛠️ Tecnologias que estou aprendendo
 
-- **Linguagens**: Java, Python, JavaScript, C#
-- **Frameworks**: Spring Boot, Angular, React
-- **Ferramentas**: Git, Docker, PostgreSQL, MySQL
-- **Metodologias**: Ágil, Scrum
+- **Linguagens**: JavaScript, HTML, CSS, Python, C, SQL
+- **Ferramentas**: Github, MySQL, WorkBench
 
 ---
 

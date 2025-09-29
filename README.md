@@ -9,7 +9,10 @@
 ## 🚀 Sobre mim
 
 Sou estudante de Engenharia de Software na PUC Campinas, atualmente no 2º semestre.
+
 Ingles Fluente
+
+Frances Basico
 
 ---
 

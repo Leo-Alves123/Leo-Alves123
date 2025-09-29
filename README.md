@@ -9,7 +9,6 @@
 ## 🚀 Sobre mim
 
 Sou estudante de Engenharia de Software na PUC Campinas, atualmente no 2º semestre.
-Gosto de fazer um sexo casual
 
 Ingles Fluente
 
